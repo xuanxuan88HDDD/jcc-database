@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from 'react';
-import { Search, Filter, X } from 'lucide-react';
+import { Search, Filter, X, Sparkles, Star } from 'lucide-react';
 import HeroCard from '../components/HeroCard';
 import HeroDetailModal from '../components/HeroDetailModal';
 
