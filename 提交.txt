@@ -1,5 +1,5 @@
 作品访问地址:
-http://localhost:5173
+https://jcc-database.80bbfd26.er.aliyun-esa.net/
 
 github仓库地址:
 https://github.com/xuanxuan88HDDD/jcc-database
